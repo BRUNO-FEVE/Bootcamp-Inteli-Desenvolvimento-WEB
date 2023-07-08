@@ -9,3 +9,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Linguagens de programação: HTML, CSS e JavaScript
 - Framework: Bootstrap
 
+## Acesso ao Site
+
+O site do projeto pode ser acessado através do seguinte link: Site de Vagas BTG
+
+Lembre-se de substituir o link "https://bootcamp-inteli-desenvolvimento-web-git-master-bruno-feve.vercel.app/" pelo link correto do seu site.
